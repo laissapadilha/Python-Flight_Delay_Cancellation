@@ -15,7 +15,7 @@ Através desta análise exploratória, buscou-se avaliar os seguintes aspectos:
 - Rotas (cidade de origem/destino);
 - Principais motivos do atraso de vos;
 
-**A análise completa em Python pode ser acessada** [aqui]()
+**A análise completa em Python pode ser acessada** [aqui](https://github.com/laissapadilha/Python-Flight_Delay_Cancellation/blob/b425a0b32c9fb60608cb6b79390f0cff11f5b933/Flights_Cancel_Delay.ipynb)
 
 ## Conclusão
 
